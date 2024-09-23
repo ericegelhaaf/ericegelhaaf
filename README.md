@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eric Egelhaaf
 - 👀 I work at Cirrus
 - 💞️ I’m looking to collaborate on programming and data analytics projects
-- 📫 How to reach me teams, email, or phone
+- 📫 How to reach me: teams, email, or phone
 - ⚡ Fun fact: I enjoy a lot of outdoor sports!
 
 <!---
