@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Eric Egelhaaf
 - 👀 I work at Cirrus
+- ✨ I graduated from Michigan State University
 - 💞️ I’m looking to collaborate on coding and data analytics projects
 - 📫 How to reach me: teams, email, or phone
 - ⚡ Fun fact: I enjoy a lot of outdoor sports!
